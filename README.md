@@ -17,7 +17,7 @@ I build practical web applications, explore AI/ML solutions, and contribute to o
 
 ## 🧑‍💻 Experience & Contributions
 
-### Former CTO — Versoid
+### Former CTO — VERSEOID
 Technology leadership, product development, and turning ideas into practical technical solutions.
 
 ### Freelance Web Developer — One Percent Club, BHU
