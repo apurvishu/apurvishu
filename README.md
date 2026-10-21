@@ -24,6 +24,7 @@ Technology leadership, product development, and turning ideas into practical tec
 - Developed a website for the One Percent Club at BHU as a paid freelance project.
 - Continue to maintain the website and support its ongoing needs.
 - Focus on usability, functionality, and a reliable web experience.
+ 🌐 onepercentbhu.in
 
 ### Open-Source Contributor — Kana-Dojo
 - Contributed to the Kana-Dojo open-source project.
