@@ -36,9 +36,12 @@ Technology leadership, product development, and turning ideas into practical tec
 ## 🚀 Featured Projects
 
 ### 🌍 One Percent Club, BHU — Client Website
+
 A paid freelance website development project with ongoing maintenance.
 
 **Focus:** Client Work · Website Development · Maintenance
+
+🔗 **[Visit Live Website](https://www.onepercentbhu.in/)**
 
 ### 🚀 ShipShape AI — Release Readiness Dashboard
 
