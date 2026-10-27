@@ -40,6 +40,16 @@ A paid freelance website development project with ongoing maintenance.
 
 **Focus:** Client Work · Website Development · Maintenance
 
+### 🚀 ShipShape AI — Release Readiness Dashboard
+
+A web-based dashboard for visualizing software release readiness, DevSecOps lifecycle stages, security findings, pipeline status, and approval workflows.
+
+**Focus:** Next.js · React · TypeScript · DevSecOps · Release Management
+
+🔗 **[Live Demo](https://shipshape-ai-2026-git-main-apurvishu11-5395s-projects.vercel.app/)** · 💻 **[GitHub Repository](https://github.com/apurvishu/shipshape-ai)**
+
+> **Note:** The current dashboard uses sample data in Demo Mode. Live CI/CD and security scanning integrations are planned improvements.
+
 ### ⚓ MaritimeIQ — Intelligent Freight Forecasting
 An SIH project focused on forecasting freight rates and port congestion to support smarter vessel chartering and bulk cargo procurement.
 
