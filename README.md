@@ -53,7 +53,7 @@ A web-based dashboard for visualizing software release readiness, DevSecOps life
 
 > **Note:** The current dashboard uses sample data in Demo Mode. Live CI/CD and security scanning integrations are planned improvements.
 >
-> ### 👻 Ghost Data Still Exists — Deletion Audit Agent
+### 👻 Ghost Data Still Exists — Deletion Audit Agent
 
 A Python-based offline auditing tool that analyzes data-deletion requests, reconstructs identity and resource states, and generates evidence-backed audit proposals to identify cases where data may still exist after a deletion request.
 
