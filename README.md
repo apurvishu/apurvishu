@@ -52,6 +52,24 @@ A web-based dashboard for visualizing software release readiness, DevSecOps life
 🔗 **[Live Demo](https://shipshape-ai-2026-git-main-apurvishu11-5395s-projects.vercel.app/)** · 💻 **[GitHub Repository](https://github.com/apurvishu/shipshape-ai)**
 
 > **Note:** The current dashboard uses sample data in Demo Mode. Live CI/CD and security scanning integrations are planned improvements.
+>
+> ### 👻 Ghost Data Still Exists — Deletion Audit Agent
+
+A Python-based offline auditing tool that analyzes data-deletion requests, reconstructs identity and resource states, and generates evidence-backed audit proposals to identify cases where data may still exist after a deletion request.
+
+**Key Features**
+- 🔍 **Evidence Extraction:** Processes JSON, text, PDF, logs, and screenshots using local OCR where supported.
+- 🧩 **Identity & Resource Matching:** Correlates identities, resource identifiers, document aliases, and historical snapshots.
+- 🛡️ **Policy-Driven Auditing:** Applies deterministic rules to identify missing verification steps, unresolved records, and potential compliance gaps.
+- 📋 **Audit Trail & Verification:** Generates ordered audit proposals with evidence references and validates output structure.
+- 🔒 **Privacy-Focused Execution:** Runs locally without hosted LLMs or runtime network access.
+- ✅ **Automated Testing:** Includes regression tests, validation checks, and evaluation reports.
+
+**Tech Stack:** Python · SQLite · Windows OCR · Tesseract OCR · CSV · Unit Testing
+
+**Safety:** The tool is read-only. It proposes audit actions and does not modify source data or perform deletions.
+
+[📂 View Repository](https://github.com/apurvishu/ghost_data_deletion_audit)
 
 ### ⚓ MaritimeIQ — Intelligent Freight Forecasting
 An SIH project focused on forecasting freight rates and port congestion to support smarter vessel chartering and bulk cargo procurement.
