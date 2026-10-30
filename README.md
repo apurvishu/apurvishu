@@ -26,12 +26,6 @@ Technology leadership, product development, and turning ideas into practical tec
 - Focus on usability, functionality, and a reliable web experience.
  🌐 onepercentbhu.in
 
-### Open-Source Contributor — Kana-Dojo
-- Contributed to the Kana-Dojo open-source project.
-- Successfully got a pull request merged.
-- Learning and growing through collaborative development and community contributions.
-
----
 
 ## 🚀 Featured Projects
 
