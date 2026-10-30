@@ -7,7 +7,7 @@
 I build practical web applications, explore AI/ML solutions, and contribute to open-source projects. I enjoy turning ideas into functional products, solving real-world problems, and working with teams to build technology that makes a difference.
 
 - 💻 Focused on **Full-Stack Development**
-- 🚀 Former **Chief Technology Officer (CTO) at Versoid**
+- 🚀 Former **Chief Technology Officer (CTO) at Verseoid**
 - 🌐 Freelance developer building and maintaining real-world client websites
 - 🤝 Open-source contributor with a merged PR in **Kana-Dojo**
 - ⚓ Building **MaritimeIQ**, an intelligent freight forecasting and congestion analysis solution
